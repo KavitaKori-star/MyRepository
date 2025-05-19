@@ -1,0 +1,7 @@
+<suite name="All Test Suite">
+    <test name="Test1">
+        <classes>
+            <class name="com.sg.driver.CucumberTestRunner"/>
+        </classes>
+    </test>
+</suite>
